@@ -8,7 +8,7 @@ This project was developed as part of my university studies to deepen my underst
 
 ## 🧠 Features
 
--   Adding new cars with comprehensive data (make, model, license plate number, color, year of manufacture, body type, VIN number).
+-   Adding new cars with comprehensive data (producer, model, license plate number, color, year of manufacture, body type, VIN number).
 -   Registering owner details for a vehicle (first name, last name, gender, age, ID number, PESEL/Social Security equivalent, residential address).
 -   Assigning a vehicle manufacturer from a predefined list (Toyota, Volkswagen, Dodge).
 -   Displaying complete information about a car, its owner, and its manufacturer.
