@@ -31,8 +31,8 @@ To compile and run the project, you will need a C++ compiler (e.g., g++).
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/JegorKolbasicz/Book_Inventory_C.git](https://github.com/JegorKolbasicz/Book_Inventory_C.git) # Change URL to your repository's URL
-    cd Book_Inventory_C # Change folder name to your repository's name
+    git clone https://github.com/JegorKolbasicz/Car_Registration_System
+    cd Car_Registration_System
     ```
 
 2.  **Compile:**
